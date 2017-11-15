@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ WidgetAlcoholDetect  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+displayConcentration  KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+

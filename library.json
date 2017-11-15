@@ -1,0 +1,17 @@
+{
+    "name": "WidgetAlcoholDetect",
+    "version": "1.0.0",
+    "keywords": "widget,alcohol",
+    "description": "酒精检测应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetAlcoholDetect.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
